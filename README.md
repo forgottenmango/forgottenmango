@@ -1,16 +1,29 @@
-## Hi there 👋
+# forgottenmango 🥭
 
-<!--
-**forgottenmango/forgottenmango** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Learning Python • Exploring Linux • Cybersecurity
 
-Here are some ideas to get you started:
+Curious about how things work beneath the surface — learning by **building, breaking, debugging, understanding, and improving**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently starting with the fundamentals of **Python Backend Engineering**, with **Linux, networking, and cybersecurity** as supporting foundations.
+
+```text
+Learn → Practice → Build → Break → Debug → Understand → Repeat
+```
+### 🔧 What I'm Exploring
+
+- 🐍 Python & backend engineering
+- 🐧 Linux & systems
+- 🛡️ Cybersecurity
+- 🌐 Networking
+
+### 🌌 Beyond Code
+
+**AI • Science • Space • Technology • Research • Creativity**
+
+Fascinated by **mysteries, intelligence, future technology, and the unknown**.
+
+### 🕉️ Foundation
+
+**Sri Vaishnava philosophy • Curiosity • Discipline • Compassion • Purpose**
+
+> **Understand deeply. Build with purpose.**
